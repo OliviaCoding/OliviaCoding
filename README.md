@@ -47,7 +47,8 @@ Passionate about building AI-powered solutions and intuitive applications. Curre
 ### 🤖 AI Agent for Asset Management (AWS Bedrock, Claude 3.5)  
 Developed a generative AI solution using **Amazon Bedrock** and **Claude 3.5 Sonnet** to automate financial asset management. Synced knowledge bases via **Amazon S3** and leveraged **Titan Embeddings G1** for NLP.  
 
-### 📱 PicSpeaks (SwiftUI, Google Cloud Vision)  
+### 📱 PicSpeaks (SwiftUI, Google Cloud Vision) 
+**YHack 2024 Project** | [Demo Video](https://www.youtube.com/watch?v=SOy6RthaEU8&t=2s) | [Devpost Submission](https://devpost.com/software/picspeaks)
 **YHack 2024 Submission**: An iOS app that identifies objects in images and translates labels into multiple languages using **Google Cloud Vision API** and **AVFoundation** for text-to-speech.  
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?logo=github)]([https://github.com/OliviaCoding/picspeaks](https://github.com/OliviaCoding/PicSpeaks))  
 
