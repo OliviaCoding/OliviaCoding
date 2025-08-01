@@ -84,7 +84,7 @@ Built an internal web tool for LaGuardia Community College, **reducing appointme
 ---
 
 ## 📊 GitHub Stats  
-![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliviaCoding&show_icons=true&theme=radical&hide_title=true)  
+<!-- ![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OliviaCoding&show_icons=true&theme=radical&hide_title=true)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaCoding&layout=compact&theme=radical)  
 
 ✨ *P.S. Check my pinned repos below for more projects!*  
