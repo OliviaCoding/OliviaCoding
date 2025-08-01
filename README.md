@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hello, I'm Wanying (Olivia) Xu
 
 **AI & Full-Stack Developer | Machine Learning Enthusiast | Break Through Tech AI Fellow @ Cornell Tech**  
-📍 Queens, NY | 🌐 [Portfolio](#) (Coming Soon!)  
+📍 Queens, NY 
 
 Passionate about building AI-powered solutions and intuitive applications. Currently diving deep into generative AI, cloud computing, and cross-platform development.  
 
