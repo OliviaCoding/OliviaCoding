@@ -49,7 +49,7 @@ Developed a generative AI solution using **Amazon Bedrock** and **Claude 3.5 Son
 
 ### 📱 PicSpeaks (SwiftUI, Google Cloud Vision)  
 **YHack 2024 Submission**: An iOS app that identifies objects in images and translates labels into multiple languages using **Google Cloud Vision API** and **AVFoundation** for text-to-speech.  
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?logo=github)](https://github.com/OliviaCoding/picspeaks)  
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?logo=github)]([https://github.com/OliviaCoding/picspeaks](https://github.com/OliviaCoding/PicSpeaks))  
 
 ### 🎓 Tutor Appointment System (HTML/CSS/JS)  
 Built an internal web tool for LaGuardia Community College, **reducing appointment scheduling time by 10x** (5 mins → 30 secs).  
